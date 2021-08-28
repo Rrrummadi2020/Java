@@ -23,5 +23,5 @@ Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
 We're on [Gitter](https://gitter.im/TheAlgorithms)! Please join us.
 
 ## Algorithms
-##Rama Rangewara reddy
+##Rama Rangewara reddy ummadi  
 See our [directory](DIRECTORY.md).
